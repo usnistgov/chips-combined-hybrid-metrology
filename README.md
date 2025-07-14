@@ -68,6 +68,7 @@ Manufacturing Portfolio
 
 	<figure>
 	<img src="fig1.png" alt="Image description" />
+  <BR>
 	<figcaption>Fig.1: Sources of dark uncertainty.</figcaption>
 	</figure>
 
@@ -117,6 +118,7 @@ Manufacturing Portfolio
 
 	<figure>
 	<img src="fig2.png" alt="Image description" />
+  <BR>
 	<figcaption>Fig. 2: Overall project workflow.</figcaption>
 	</figure>
 
@@ -143,6 +145,7 @@ Manufacturing Portfolio
 
 	<figure>
 	<img src="fig3.png" alt="Image description" />
+  <BR>
 	<figcaption>Fig.3: Future logic architecture
 	roadmap<sup>2</sup>.</figcaption>
 	</figure>
