@@ -146,8 +146,8 @@ Manufacturing Portfolio
 	<figure>
 	<img src="fig3.png" alt="Image description" />
   <BR>
-	<figcaption>Fig.3: Future logic architecture
-	roadmap<sup>2</sup>.</figcaption>
+	<figcaption>Fig.3: Exlogic device architecture<sup>1</sup>. The critical parameters are the individual etch recess/cavity depths, as indicated with red arrows on the right.ample: Cross section of lateral recess/cavity etching step in 2 nm.
+  </figcaption>
 	</figure>
 	</div>
 
