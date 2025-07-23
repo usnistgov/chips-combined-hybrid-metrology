@@ -2,9 +2,6 @@
 
 ## Empowering Combined and Hybrid Metrology
 
-<figure>
-<img src="chips_logo.png" alt="Image description" />
-</figure>
 
 </div>
 
